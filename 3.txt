@@ -1,0 +1,12 @@
+function(){
+	let error;
+	if(!OK(Run1()))
+	throw new Error = Run1Err;
+	if(!OK(Run2()))
+	throw new Error = Run2Err;
+	if(!OK(Run3()))
+	throw new Error = Run3Err;
+	if(!OK(Run4()))
+	throw new Error = Run4Err;
+	return error;
+}

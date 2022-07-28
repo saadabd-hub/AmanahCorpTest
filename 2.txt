@@ -1,0 +1,10 @@
+Class Worker {
+constructor() {
+    const salary = this.hoursWorked * this.rate;
+}
+basicSalary() {
+return salary;
+overviewSalary() {
+return salary + this.TAX;
+}
+}
